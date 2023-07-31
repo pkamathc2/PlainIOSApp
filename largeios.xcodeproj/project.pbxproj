@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CDF7401B1F4E13E100B1C9A4 /* com.pramod.20210125110000.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = com.pramod.20210125110000.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDF7401B1F4E13E100B1C9A4 /* com.pramod.xcodecloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = com.pramod.xcodecloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDF7401F1F4E13E100B1C9A4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CDF740211F4E13E100B1C9A4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		CDF740221F4E13E100B1C9A4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -91,7 +91,7 @@
 		CDF7401C1F4E13E100B1C9A4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CDF7401B1F4E13E100B1C9A4 /* com.pramod.20210125110000.app */,
+				CDF7401B1F4E13E100B1C9A4 /* com.pramod.xcodecloud.app */,
 				CDF740341F4E13E100B1C9A4 /* largeiosTests.xctest */,
 				CDF7403F1F4E13E100B1C9A4 /* largeiosUITests.xctest */,
 			);
@@ -157,7 +157,7 @@
 			);
 			name = largeios;
 			productName = largeios;
-			productReference = CDF7401B1F4E13E100B1C9A4 /* com.pramod.20210125110000.app */;
+			productReference = CDF7401B1F4E13E100B1C9A4 /* com.pramod.xcodecloud.app */;
 			productType = "com.apple.product-type.application";
 		};
 		CDF740331F4E13E100B1C9A4 /* largeiosTests */ = {
@@ -438,8 +438,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.orbit1;
-				PRODUCT_NAME = com.pramod.20210125110000;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.xcodecloud;
+				PRODUCT_NAME = com.pramod.xcodecloud;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
@@ -457,8 +457,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.orbit1;
-				PRODUCT_NAME = com.pramod.20210125110000;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pramod.xcodecloud;
+				PRODUCT_NAME = com.pramod.xcodecloud;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
